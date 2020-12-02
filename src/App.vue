@@ -49,6 +49,9 @@ export default{
 </script>
 
 <style scoped>
+h1{
+  color:aqua;
+}
 #app ul{
   list-style: none;
 }
